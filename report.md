@@ -1,4 +1,4 @@
-$UFC Dataset findings
+# UFC Dataset findings
 
 In this project, I have decided to analyse some fights to find any specific correlations or any cool findings.
 
